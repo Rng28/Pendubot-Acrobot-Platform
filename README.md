@@ -7,4 +7,4 @@ Hardware_CAD contains our CAD files for the HPAR platform
 
 PendubotAcrobotSimulator is our simulator for the HPAR system.
 
-The VESC folder contains our custom firmware modified based on the opensource firmware(v1.08) available for the VESC.(For the use the "hardware" SPI mode for the AS5047D)
+The VESC folder contains our custom firmware modified based on the opensource firmware of the vesc (vesc tool 1.08) available for the VESC.(For the use the "hardware" SPI mode for the AS5047D)
